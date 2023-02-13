@@ -1,0 +1,130 @@
+*{
+  box-sizing:border-box;
+  
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #030303;
+  top: 0%;
+  position: static;
+  width: 100%;
+}
+
+.navbar li{
+  display: inline-block;
+  color: darkorange;
+  text-align: left;
+  padding: 30px 20px;
+  margin: auto;
+}
+
+
+body {
+  background: #000;
+  color: #fff;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+.header {
+  text-align:center;
+  width: 50%;
+  font-weight:bold;
+  border: solid white;
+  border-radius:50px;
+  background-color:white;
+  color:black;
+  opacity: 0.5;
+  margin: 20px auto;
+  
+}
+
+h2 {
+  text-align:center;
+  font-weight:bold;
+  width: 50%;
+  border: solid white;
+  border-radius:50px;
+  background-color:white;
+  color:black;
+  opacity: 0.5;
+  margin: 20px auto;
+}
+
+p {
+  text-align: center;
+  margin: 10px 150px;
+}
+
+.logo {
+    height: 350px;
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+}
+
+.affiliations1 {
+  padding: 10px 10px;
+  margin: auto;
+  display: inline-block;
+}
+
+.affiliations2 {
+  padding: 10px 10px;
+  margin-left: 625px;
+  display: inline-block;
+}
+
+.disaplins{
+  list-style-type: none;
+  text-align:center;
+}
+
+.joining {
+  list-style-type: none;
+  text-align:center;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  text-align: left;
+}
+
+input {
+  text-align: left;
+}
+
+textarea {
+  text-align: left;
+}
+
+.characters {
+  font-size: 10px;
+}
+
+a.hyper-link{
+  color: darkorange;
+}
+
+.email-address{
+  color: darkorange;
+}
+
+.gallery-images{
+  padding: 10px 10px;
+  margin: auto;
+  max-width: 300px;
+  max-height: 300px;
+  display: inline-block;
+}
+
+.gallery-vid {
+  padding: 10px 10px;
+  margin: auto;
+}
